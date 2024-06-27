@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tongxinwei
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, rk3399, rk3568
 - 📫 How to reach me weitongxin@proton.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
